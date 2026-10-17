@@ -5,7 +5,7 @@ function togglePassword1() {
     } else {
         passwordField.type = "password"; // Hide password
     }
-}password.type
+}
 
 function togglePassword2() {
     var passwordField = document.getElementById("password2");
