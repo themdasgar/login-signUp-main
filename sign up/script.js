@@ -15,4 +15,3 @@ function togglePassword2() {
         passwordField.type = "password"; // Hide password
     }
 }
-passwordField.type = "password"; // Hide password
