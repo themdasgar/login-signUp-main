@@ -5,4 +5,4 @@ function togglePassword() {
     } else {
         passwordField.type = "password"; // Hide password
     }
-}<div class="register"></div>
+}
