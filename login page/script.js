@@ -8,10 +8,3 @@ function togglePassword() {
 }
 
 
-
-
-
-
-
-
-          <p>Remember me</p>

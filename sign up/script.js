@@ -17,4 +17,3 @@ function togglePassword2() {
 }
 
 
-          <p>Remember me</p>
