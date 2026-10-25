@@ -194,6 +194,5 @@ form .button input:hover {
 /* Responsive media query code for mobile devices */
 @media(max-width: 459px) {
   .container .content .category {
-    flex-direction: column;
-  }
+    
 }
