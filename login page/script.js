@@ -3,5 +3,6 @@ function togglePassword() {
     if (passwordField.type === "password") {
         passwordField.type = "text";  // Show password
     } else {
-        
+        passwordField.type = "password"; // Hide password
+    }
 }
