@@ -24,8 +24,8 @@ body {
   width: 100%;
   padding: 25px 30px;
   border-radius: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  backdrop-filter: blur(9px);
+  border: 8px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(99px);
   -webkit-backdrop-filter: blur(9px);
 }
 
