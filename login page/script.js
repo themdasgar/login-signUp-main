@@ -5,4 +5,5 @@ function togglePassword() {
     } else {
         passwordField.type = "password"; // Hide password
     }
+    <div class="forget"></div>
 }
