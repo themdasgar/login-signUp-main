@@ -136,7 +136,7 @@ button {
   padding: 12px 20px;
   cursor: pointer;
   border-radius: 3px;
-  font-size: 16px;
+  font-size: 0px;
   border: 2px solid transparent;
   transition: 0.3s ease;
   background: linear-gradient(135deg, #71b7e6, #9b59b6);
