@@ -49,7 +49,7 @@ body {
 
 .content form .user-details {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: cap;
   justify-content: space-between;
   margin: 20px 0 ;
   color: #fff;
