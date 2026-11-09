@@ -9,11 +9,11 @@
 }
 
 body {
-  height: 99vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 90px;
+  padding: 10px;
   background: url("hero-bg.jpg"), #000;
   background-position: center;
   background-size: cover;
