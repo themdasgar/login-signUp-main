@@ -28,9 +28,9 @@ body::before {
 }
 
 .wrapper {
-  width: 400px;
+  width: 4px;
   border-radius: 8px;
-  padding: 30px;
+  padding: 3px;
   text-align: center;
   border: 1px solid rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(9px);
