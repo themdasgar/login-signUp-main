@@ -1,7 +1,7 @@
 function togglePassword1() {
     var passwordField = document.getElementById("password1");
     if (passwordField.type === "password") {
-        passwordField.type = "pass";  // Show password
+        passwordField.type = "text";  // Show password
     } else {
         passwordField.type = "password"; // Hide password
     }
