@@ -39,9 +39,10 @@
 </html>
 
 
+function renderTasks() {
+    const taskList = document.getElementById("taskList");
+    taskList.innerHTML = "";
 
-let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+    tasks.forEach((task, index) => {
+        const li = document.createElement("li");
 
-function saveTasks() {
-    localStorage.setItem("tasks", JSON.stringify(tasks));
-}
